@@ -147,7 +147,7 @@ header .logo img{
     background: #3333332f;
     border-radius: 2px;
     color: #333;
-    display: none;
+    display: none !important;
 }
 .majorCaree_list .education_area .btn_more:hover{
     background: #333;
