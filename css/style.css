@@ -629,6 +629,9 @@ section.planning{padding-top: 120px;}
 .contact .text_area .contact_me li a{
     width: 70%;
 }
+.contact .text_area .contact_me .insta{
+    display: none !important;
+}
 /* footer */
 footer{
     width: 100%;
